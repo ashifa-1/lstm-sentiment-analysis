@@ -1,9 +1,9 @@
-# Virtual Environment
-venv/
 env/
-
+aclImdb/
+venv/
 # Python cache
 __pycache__/
+*.pth
 *.pyc
 *.pyo
 *.pyd
